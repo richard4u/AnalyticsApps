@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Ayodeji.Abodunrin\Documents\projects\WemaAnalyticsAPI\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-02-01T10:37:36.6885552Z;True|2022-01-27T16:07:01.6690804+01:00;True|2021-12-20T15:25:11.9874458+01:00;True|2021-11-23T07:37:40.3115748+01:00;True|2021-11-17T17:37:04.6812365+01:00;True|2021-11-17T14:08:39.0600879+01:00;True|2021-11-08T00:06:14.6087362+01:00;True|2021-10-21T09:46:03.7471297+01:00;True|2021-10-18T11:54:34.2998269+01:00;True|2021-10-18T11:29:08.1766134+01:00;True|2021-10-18T11:23:57.3489670+01:00;True|2021-10-18T08:42:20.3012033+01:00;True|2021-09-29T11:38:01.8334489+01:00;True|2021-09-29T11:37:07.8041497+01:00;True|2021-06-20T18:40:32.6776341+01:00;True|2021-06-20T17:37:43.1714613+01:00;False|2021-06-20T17:36:24.2309770+01:00;</History>
+  </PropertyGroup>
+</Project>
